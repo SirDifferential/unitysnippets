@@ -1,0 +1,1 @@
+This repository contains a pile of my Unity projects, mostly for learning and trying stuff.
